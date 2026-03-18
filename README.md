@@ -1,1 +1,1 @@
-# Application-specific-access-policies-using-Zscaler-Private-Access--ZPA-
+# Application-specific-access-policies-using-Zscaler-Private-Access-ZPA
